@@ -1,0 +1,49 @@
+10.27 시험
+
+1. paragraph 에 대해 아는대로 기술
+
+<p> 는 paragraph(문단) 의 약어 
+
+rowspan
+colspan
+
+예제 4-9 셀 병합하기1
+이미지에 링크걸기 (시험)
+
+이미지에 제목 추가하기
+
+method 속성에서 사용하는 방식
+
+required : 필수입력
+
+정규식(regular expression)
+
+자동 포커스 속성 : autofocus
+
+플레이스 홀더 속성 : placeholder
+
+필수 입력 속성 : required
+
+css
+
+css 정의 문법
+
+폼 전송 방식 method = Post Get 방식 정확하게 알고 있어야함
+
+-----------------------------
+Spring Framework 2~3 문제 나옴 : java 
+
+Spring Framework : ioC,IoC(제어반전:외부에서 object를 동적으로 전달하는 방법) :Inversion of Control  
+
+ORM(Object Relation Data Model) :
+
+class Score {
+		String sno;
+		String sname;
+		}
+
+DAO, DTO 데이터베이스 처리 기술
+
+AOP(관점 지향 프로그래밍)
+
+위의 약어들 검색해서 추가해두기 
